@@ -1,0 +1,228 @@
+[
+    {
+        "id": "oil1",
+        "name": "iphone x",
+        "company": "apple",
+        "date":"12/02/2023",
+        "price": 6000000,
+        "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0",
+            "#22D3EF",
+            "#000"
+        ],
+        "image": "https://www.shutterstock.com/image-illustration/oil-painting-conceptual-abstract-picture-260nw-1445018480.jpg",
+        "category": "oil Painting",
+        "featured": true
+    },
+    {
+        "id": "oil2",
+        "name": "samsung s20",
+        "company": "samsung",
+        "date":"12/02/2023",
+        "price": 5000000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRNFJgs5vmUUNqjSvwmjPkEBteRJeU_SEmQ&usqp=CAU",
+        "category": "oil Painting",
+        "shipping": true
+    },
+    {
+        "id": "oil3",
+        "name": "Dell Series",
+        "company": "dell",
+        "date":"12/02/2023",
+        "price": 600000,
+        "colors": [
+            "#22D3EF",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGFydHxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "oil Painting"
+    },
+    {
+        "id": "sketch1",
+        "name": "Nokia 420",
+        "company": "nokia",
+        "date":"12/02/2023",
+        "price": 12599,
+        "colors": [
+            "#000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthTMbNeJpJWTQ2A1M7fEGlFdeJMT5FYmkLPtNWb_xvMgEsR8nOZOdEyvE2Nzn4qWy27Q&usqp=CAU",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "sketches",
+        "shipping": true
+    },
+    {
+        "id": "sketch2",
+        "name": "Mac Pc",
+        "company": "apple",
+        "date":"12/02/2023",
+        "price": 4000099,
+        "colors": [
+            "#000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPEV7t-rMvD4iPbASMszV8ZL1IjW6X_HfB8w&usqp=CAU",
+        "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "sketches",
+        "shipping": true
+    },
+    {
+        "id": "sketch3",
+        "name": "Macbook Pro",
+        "company": "apple",
+        "date":"12/02/2023",
+        "price": 42999,
+        "colors": [
+            "#000000",
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt5u1H0SIifevwOGiG7jEBY6jxB2y8PzlWXg&usqp=CAU",
+        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "sketches",
+        "shipping": true
+    },
+    {
+        "id": "natural1",
+        "name": "Asus gseries",
+        "company": "asus",
+        "date":"12/02/2023",
+        "price": 23999,
+        "colors": [
+            "#CDD0D0",
+            "#000"
+        ],
+        "image": "https://t4.ftcdn.net/jpg/05/36/81/09/240_F_536810938_Sh4lH4E1XDHbdmm6uMvoCkfOirrOVH3e.jpg",
+        "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "natural painting",
+        "shipping": true
+    },
+    {
+        "id": "natural2",
+        "name": "Accessories",
+        "price": 1099999,
+        "company": "lenova",
+        "date":"12/02/2023",
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://t4.ftcdn.net/jpg/05/28/61/29/240_F_528612952_O2YtXqSLzMxiUmQgacCvZwvPjtWEh31M.jpg",
+        "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "natural painting",
+        "featured": true,
+        "shipping": true
+    },
+    {
+        "id": "natural3",
+        "name": "Iwatch",
+        "price": 39999,
+        "company": "apple",
+        "date":"12/02/2023",
+        "colors": [
+            "#000000"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvm-6kABbC8Z7lX1retm-ET_3QDHLyL8GtRg&usqp=CAU",
+        "category": "natural painting",
+        "shipping": true
+    },
+    {
+        "id": "visual1",
+        "name": "user need",
+        "company": "apple",
+        "date":"12/02/2023",
+        "price": 300099,
+        "colors": [
+            "#ff0000",
+            "#22D3EF",
+            "#000000"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjiHFGgDoIg7fJMW7_Rnf3ddSn7ZzIZ-rnGzGO8oDirOpNDmMB1ZesP-4aV1KfrSRzD2g&usqp=CAU",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "visual painting"
+    },
+    {
+        "id": "visual2",
+        "name": "rolex premium",
+        "company": "rolex",
+        "date":"12/02/2023",
+        "price": 999999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGuLg-4JtAolK56nw2wdF3V-Zw2DGOhxpLQ&usqp=CAU",
+        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "visual painting"
+    },
+    {
+        "id": "visual3",
+        "name": "iphone x",
+        "company": "apple",
+        "date":"12/02/2023",
+        "price": 6000000,
+        "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "#",
+        "category": "visual painting",
+        "featured": true
+    },
+    {
+        "id": "potrait1",
+        "name": "samsung s20",
+        "company": "samsung",
+        "date":"12/02/2023",
+        "price": 5000000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49iM09yDtKGVOUXm3Wu4PvmK8kxCohs4fkQ&usqp=CAU",
+        "description": "Show off your vibrant and exotic taste with this Flower Lady Portrait Art, featuring an array of lush tones and metallic gold detailing. Depicting an elegant lady posed against a leafy green and golden backdrop with intricately patterned clothing and a floral headdress, this artwork will look beautiful and striking on any wall.",
+        "category": "potrait",
+        "shipping": true
+    },
+    {
+        "id": "potrait2",
+        "name": "Dell Series",
+        "company": "dell",
+        "date":"12/02/2023",
+        "price": 600000,
+        "colors": [
+            "#22D3EF",
+            "#CDD0D0"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSePMwAOFF1s3DATA8HXuoWA8i6_I51DQY5Aw&usqp=CAU",
+        "description": "this portrait of Robert Downey Jr. is drawn freehand in Photoshop using layer blending modes to simulate the effect of transparent watercolor. ",
+        "category": "potrait"
+    },
+    
+    {
+        "id": "potrait3",
+        "name": "galaxy w20",
+        "price": 311999,
+        "company": "samsung",
+        "date":"12/02/2023",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5GBL_CFhctspGTSThB_dvmRQHG5aDnaf3Q&usqp=CAU",
+        "category": "potrait",
+        "featured": true
+    }
+]
